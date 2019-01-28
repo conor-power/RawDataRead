@@ -6,7 +6,7 @@
 			{
 				"cols": 
 				[
-					{ "First Name" }, { "Second Name" }, { "Student Number" }
+					{ "value": "First Name" }, { "value": "Second Name" }, { "value": "Student Number" }
 				]
 			}
 		],
@@ -15,10 +15,10 @@
 			{
 				"cols":
 				[
-					{ "Conor" }, { "Power" }, { "1234" },
-					{ "Daniel" }, { "Collins" }, { "4529" },
-					{ "Dylan" }, { "Morrisey" }, { "9090" },
-					{ "Andrew" }, { "Minogue" }, { "4444" }
+					{ "firstName": "Conor" }, { "secondName": "Power" }, { "stdNumber": "1234" },
+					{ "firstName": "Daniel" }, { "secondName": "Collins" }, { "stdNumber": "4529" },
+					{ "firstName": "Dylan" }, { "secondName": "Morrisey" }, { "stdNumber": "9090" },
+					{ "firstName": "Andrew" }, { "secondName": "Minogue" }, { "stdNumber": "4444" }
 				]
 			}
 		]
