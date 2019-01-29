@@ -1,0 +1,26 @@
+{
+	"app": 
+	{
+		"hrow": 
+		[
+			{
+				"cols": 
+				[
+					{ "value": "First Name" }, { "value": "Second Name" }, { "value": "Student Number" }
+				]
+			}
+		],
+		"rows":
+		[
+			{
+				"cols":
+				[
+					{ "firstName": "Conor" }, { "secondName": "Power" }, { "stdNumber": "1234" },
+					{ "firstName": "Daniel" }, { "secondName": "Collins" }, { "stdNumber": "4529" },
+					{ "firstName": "Dylan" }, { "secondName": "Morrisey" }, { "stdNumber": "9090" },
+					{ "firstName": "Andrew" }, { "secondName": "Minogue" }, { "stdNumber": "4444" }
+				]
+			}
+		]
+	}
+}
