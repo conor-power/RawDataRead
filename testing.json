@@ -1,0 +1,13 @@
+{
+	"meta" : [
+		{ "First Name" },
+		{ "Second Name" },
+		{ "Student Number" }
+	],
+	"data" : [
+		{ "First Name" : "Conor",  "Second Name" : "Power", "Student Number" : "1234" },
+		{ "First Name" : "Daniel", "Second Name" : "Power", "Student Number" : "3244" },
+		{ "First Name": "Dylan" , "Second Name": "Morrisey", "Student Number": "9090" },
+		{ "First Name": "Andrew", "Second Name": "Minogue", "Student Number": "4444" }
+	]
+}
